@@ -1,0 +1,11 @@
+{
+  "name": "html5-tiles-based-game",
+  "description": "A simple game with html5 (canvas) with tiles-based",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jucesarsilva/html5-tiles-based-game",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~3.1.1"
+  }
+}

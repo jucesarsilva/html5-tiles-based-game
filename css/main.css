@@ -1,0 +1,107 @@
+/*   ############################################################################ 
+     # @author: Julio Cesar Silva                                               #
+     # @Date: 11/26/2013                                                        #
+     # @Description: Css para formatação da página de estudo : Udacity Tutorial #
+     # A página faz uso da estrutura do template "borderplate".                 #
+     ############################################################################ */
+
+#body
+{
+    position:absolute;
+    text-align:center;
+    margin:0;
+}
+
+#mainheader
+{
+    background-color:#9C9C9C;
+    position:relative;
+    margin-top: 1%;
+    margin-left: 4.2%;
+    height:5%;
+    width:90.5%;
+    border:2px solid;
+    border-radius:2px;
+    float:left;
+    text-align:left;
+}
+
+
+#mainheader ul
+{
+    text-align:justify;
+    margin:0px;
+    padding-top:0.5%;
+}
+
+
+
+#mainheader ul li
+{
+    display:inline;
+    padding:0px;
+    padding-left:13%;
+    font-size:24px;
+    font-size-adjust:auto;
+}
+
+
+#mainnav
+{
+    background-color:#B4EEB4;
+    position:relative;
+    border:2px solid;
+    border-radius:2px;
+    height:75%;
+    width:10%;
+    margin-top: 1%;
+    margin-left: 4.2%;
+    float:left;
+    text-align:left;
+}
+
+
+#content
+{
+    background-color:#000000;
+    position:relative;
+    border:2px solid;
+    border-radius:2px;
+    margin-top: 1%;
+    margin-left: 2.5%;
+    height:75%;
+    width:65%;
+    float:left;
+    text-align:left;
+}
+
+
+#mainaside
+{
+    background-color:#B4EEB4;
+    position:relative;
+    border:2px solid;
+    border-radius:2px;
+    height:75%;
+    width:10%;
+    margin-top: 1%;
+    margin-left: 2.5%;
+    float:left;
+    text-align:left;
+}
+
+
+#mainfooter
+{
+    background-color:#9C9C9C;
+    position:relative;
+    border:2px solid;
+    border-radius:2px;
+    height:10%;
+    width:90.5%;
+    margin-top: 1%;
+    margin-left: 4.2%;
+    float:left;
+    text-align:left;
+}
+
